@@ -1,2 +1,2 @@
-# timer
+# Static-Card
 Created with CodeSandbox
